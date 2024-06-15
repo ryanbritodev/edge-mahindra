@@ -84,4 +84,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Direitos Reservados
 
-Todos os direitos reservados à FIAP.
+Todos os direitos reservados à FIAP ©️
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://www.fiap.com.br/empresas/svg/home/fiap-plus-alura/fiap.svg" width="49%" style="margin-left: auto;" alt="Logo FIAP">
+</div>

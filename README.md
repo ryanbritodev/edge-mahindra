@@ -3,8 +3,8 @@
 Este projeto foi desenvolvido como parte da __Sprint 1__ da disciplina de __Edge Computing & Computer Systems__, ministrada pelo Prof. Flávio Grassi, para os alunos do primeiro semestre de __Engenharia de Software da FIAP__. O objetivo principal dessa Sprint foi desenvolver uma solução IoT que fosse capaz de captar informações sobre a Fórmula E, transmitindo-as de maneira criativa e acessível, permitindo que pessoas de todas as idades e níveis de conhecimento sobre automobilismo se envolvam e se emocionem com a competição.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://e-formula.news/files/e-formel/uploads/_NEWS/2023/12%20Dezember/Mahindra%20Livery/Mahindra-Livery-Formula-E-Season-2024.jpg" width="36.5%">
-  <img src="https://mms.businesswire.com/media/20210709005496/pt/890318/22/New_Tech_M_Logo_High-res_square.jpg" width="49%" style="margin-left: auto;">
+  <img src="https://e-formula.news/files/e-formel/uploads/_NEWS/2023/12%20Dezember/Mahindra%20Livery/Mahindra-Livery-Formula-E-Season-2024.jpg" width="36.5%" alt="Carro Mahindra">
+  <img src="https://mms.businesswire.com/media/20210709005496/pt/890318/22/New_Tech_M_Logo_High-res_square.jpg" width="49%" style="margin-left:" auto; alt="Logo Tech Mahindra">
 </div>
 
 ## Descrição do Projeto
@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte da __Sprint 1__ da disciplina de __Edge
 O projeto consiste em um dispositivo integrado ao cockpit dos carros da Fórmula E, projetado para monitorar e alertar sobre condições adversas dentro do mesmo, tais como __temperatura, umidade e luminosidade__. Além disso, o sistema possui a funcionalidade de abrir automaticamente um compartimento de ventilação e resfriamento para melhorar as condições internas do veículo. Por meio desse dispositivo IoT integrado ao cockpit do piloto, informações cruciais são captadas e processadas em tempo real, garantindo a segurança e o conforto do piloto durante a corrida.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Formula-e-logo-championship_2023.svg/2560px-Formula-e-logo-championship_2023.svg.png" width="49%" style="margin-left: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Formula-e-logo-championship_2023.svg/2560px-Formula-e-logo-championship_2023.svg.png" width="49%" style="margin-left: auto;" alt="Logo da FIA Fórmula E">
 </div>
 
 ## Funcionalidades Principais do Sistema
@@ -30,7 +30,7 @@ __Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de 
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://tm.ibxk.com.br/2014/08/25/25151040365302.jpg?ims=1200x675" width="49%" style="margin-left: auto;">
+  <img src="https://tm.ibxk.com.br/2014/08/25/25151040365302.jpg?ims=1200x675" width="49%" style="margin-left: auto;" alt="Roda de umCarro Fórmula E superaquecendo">
 </div>
 
 ## Componentes
@@ -45,11 +45,15 @@ __Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de 
 ## Instalação e Uso
 
 ### Para utilizar o sistema, siga as etapas abaixo:
-1. Monte os componentes seguindo a imagem fornecida pelo circuito ou através do link do [simulador](https://wokwi.com/projects/398254614654249985) no Wokwi.
-2. Carregue o código-fonte para o Arduino Uno R3.
-3. Ligue o sistema e monitore as condições ambientais durante a corrida.
+1. Monte os componentes seguindo a imagem fornecida pelo circuito ou através do link do [simulador](https://wokwi.com/projects/398254614654249985) no __Wokwi__.
+2. Importe todas as bibliotecas necessárias __(como LiquidCrystal, DHT e Servo)__.
+3. Carregue o código-fonte para o __Arduino Uno R3__.
+4. Ligue o sistema e monitore as condições ambientais durante a corrida.
 
-Certifique-se de conectar bem todos os componentes ao Arduino.
+<div style="display: flex; justify-content: space-between;">
+<img alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> 
+<img alt="Arduino" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+</div>
 
 ## Circuito Final
 

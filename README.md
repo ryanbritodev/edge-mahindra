@@ -30,7 +30,7 @@ __Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de 
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://tm.ibxk.com.br/2014/08/25/25151040365302.jpg?ims=1200x675" width="49%" style="margin-left: auto;" alt="Roda de umCarro Fórmula E superaquecendo">
+  <img src="https://tm.ibxk.com.br/2014/08/25/25151040365302.jpg?ims=1200x675" width="49%" style="margin-left: auto;" alt="Roda de um carro da Fórmula E superaquecendo">
 </div>
 
 ## Componentes
@@ -41,6 +41,12 @@ __Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de 
 - Um servomotor para abrir e fechar automaticamente o sistema de ventilação e resfriamento do cockpit.
 - Um display LCD para exibir as informações ao piloto.
 - Um Arduino Uno R3 para controlar todos os componentes.
+
+<br>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://cdn.awsli.com.br/600x700/980/980586/produto/181023040/kit-completo-arduino-na-maleta-cshawd.jpg" width="49%" style="margin-left: auto;" alt="Kit Arduino">
+</div>
 
 ## Instalação e Uso
 

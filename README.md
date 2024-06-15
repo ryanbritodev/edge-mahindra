@@ -11,6 +11,10 @@ Este projeto foi desenvolvido como parte da __Sprint 1__ da disciplina de __Edge
 
 O projeto consiste em um dispositivo integrado ao cockpit dos carros da Fórmula E, projetado para monitorar e alertar sobre condições adversas dentro do mesmo, tais como __temperatura, umidade e luminosidade__. Além disso, o sistema possui a funcionalidade de abrir automaticamente um compartimento de ventilação e resfriamento para melhorar as condições internas do veículo. Por meio desse dispositivo IoT integrado ao cockpit do piloto, informações cruciais são captadas e processadas em tempo real, garantindo a segurança e o conforto do piloto durante a corrida.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Formula-e-logo-championship_2023.svg/2560px-Formula-e-logo-championship_2023.svg.png" width="49%" style="margin-left: auto;">
+</div>
+
 ## Funcionalidades Principais do Sistema
 
 - Monitoramento da temperatura, umidade e luminosidade dentro do cockpit.
@@ -21,7 +25,13 @@ O projeto consiste em um dispositivo integrado ao cockpit dos carros da Fórmula
 
 ## Nosso Objetivo
 
-Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de até 60°C? A segurança dos pilotos é de extrema importância em corridas de alta velocidade como a Fórmula E. Condições adversas dentro do cockpit, como altas temperaturas e umidade, podem afetar negativamente o desempenho do piloto e até mesmo colocar sua vida em risco. Portanto, a implementação de um sistema inteligente de monitoramento e controle é essencial para garantir um ambiente seguro e confortável durante a corrida.
+__Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de até 60°C?__ A segurança dos pilotos é de extrema importância em corridas de alta velocidade como a Fórmula E. Condições adversas dentro do cockpit, como altas temperaturas e umidade, podem afetar negativamente o desempenho do piloto e até mesmo colocar sua vida em risco. Portanto, a implementação de um sistema inteligente de monitoramento e controle é essencial para garantir um ambiente seguro e confortável durante a corrida.
+
+<br>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://tm.ibxk.com.br/2014/08/25/25151040365302.jpg?ims=1200x675" width="49%" style="margin-left: auto;">
+</div>
 
 ## Componentes
 ### Lista de dispositivos utilizados nesse sistema:
@@ -53,6 +63,10 @@ Certifique-se de conectar bem todos os componentes ao Arduino.
 - Diogo Leles Franciulli RM558487
 - Felipe Sousa de Oliveira RM559085
 - Ryan Brito Pereira Ramos RM554497
+
+## Referências
+- [Link do Circuito](https://wokwi.com/projects/398254614654249985)
+- [Vídeo da Explicação do Código]()
 
 ## Licença
 

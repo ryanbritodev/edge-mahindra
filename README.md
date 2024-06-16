@@ -76,7 +76,7 @@ __Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de 
 
 ## Referências
 - [Link do Circuito](https://wokwi.com/projects/398254614654249985)
-- [Vídeo da Explicação do Código]()
+- [Vídeo da Explicação do Código](https://youtu.be/4ZuemLyiSLw)
 
 ## Licença
 
